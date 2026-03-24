@@ -1,9 +1,4 @@
-- 👋 Hi, I’m @michpouls
-- 👀 I’m interested in frontend-developing
-- 🌱 I’m currently learning Flutter
-- 📫 How to reach me - don't. not yet.
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: i am no fun
+- 👋 Hi, I’m Michael
 
 <!---
 michpouls/michpouls is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
